@@ -1,2 +1,2 @@
 # laptop_autobrightness
-Concept. Script automatically adjusts screen brightness of your laptop by making photo using builtin webcam and analyzing their brightness.
+Concept. Script automatically adjusts your laptop screen brightness by making photo using builtin webcam and analyzing photo brightness.
