@@ -1,7 +1,7 @@
 # laptop_auto_brightness
 Automatic brightness for laptops running Microsoft Windows.
 
-Script automatically adjusts your laptop screen brightness by making photo using builtin webcam and analyzing its brightness.
+Script takes photo using built-in webcam and adjusts your laptops screen brightness based on the photo brightness.
 
 Requires:
 * opencv2
